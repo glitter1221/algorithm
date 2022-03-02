@@ -1,5 +1,3 @@
-let arr = [1,2,3,4,5];
-console.log(arr);
-arr.push(6);
-console.log(arr);
-
+let arr = ['A','B','C'];
+arr.pop();                 // arr = ['A','B','D']
+arr.push('D');             // arr = ['A','B']
