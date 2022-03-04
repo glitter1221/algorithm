@@ -3,3 +3,5 @@
 1. stack
 
 2. queue
+
+3. deque
