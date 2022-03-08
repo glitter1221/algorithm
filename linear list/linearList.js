@@ -1,0 +1,1 @@
+let linearList = ['A','B','C','D'];

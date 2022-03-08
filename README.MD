@@ -1,7 +1,9 @@
 # Algorithm
 
-1. stack
+1. linear list
 
-2. queue
+2. stack
 
-3. deque
+3. queue
+
+4. deque
