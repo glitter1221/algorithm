@@ -2,8 +2,10 @@
 
 1. linear list
 
-2. stack
+2. linked list
 
-3. queue
+3. stack
 
-4. deque
+4. queue
+
+5. deque
