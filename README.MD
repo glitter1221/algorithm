@@ -9,3 +9,7 @@
 4. queue
 
 5. deque
+
+6. tree
+
+7. binary tree
