@@ -12,4 +12,8 @@
 
 6. tree
 
-7. binary tree
+7. binaryTree
+
+8. graph
+
+9. graphSearch
