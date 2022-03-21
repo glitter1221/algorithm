@@ -17,3 +17,5 @@
 8. graph
 
 9. graphSearch
+
+10. insertionSort
