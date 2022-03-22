@@ -19,3 +19,5 @@
 9. graphSearch
 
 10. insertionSort
+
+11. bubbleSort
