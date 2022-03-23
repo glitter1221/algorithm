@@ -21,3 +21,5 @@
 10. insertionSort
 
 11. bubbleSort
+
+12. selectionSort
