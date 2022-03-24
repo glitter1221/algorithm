@@ -23,3 +23,5 @@
 11. bubbleSort
 
 12. selectionSort
+
+13. shellSort
