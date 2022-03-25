@@ -25,3 +25,5 @@
 12. selectionSort
 
 13. shellSort
+
+14. quickSort
