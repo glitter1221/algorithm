@@ -12,18 +12,20 @@
 
 6. tree
 
-7. binaryTree
+7. heap
 
-8. graph
+8. binaryTree
 
-9. graphSearch
+9. graph
 
-10. insertionSort
+10. graphSearch
 
-11. bubbleSort
+11. insertionSort
 
-12. selectionSort
+12. bubbleSort
 
-13. shellSort
+13. selectionSort
 
-14. quickSort
+14. shellSort
+
+15. quickSort
