@@ -29,3 +29,5 @@
 14. shellSort
 
 15. quickSort
+
+16. heapSort
