@@ -33,3 +33,5 @@
 16. heapSort
 
 17. radixSort
+
+18. linearSearch
