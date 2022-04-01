@@ -35,3 +35,5 @@
 17. radixSort
 
 18. linearSearch
+
+19. binarySearch
