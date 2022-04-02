@@ -37,3 +37,5 @@
 18. linearSearch
 
 19. binarySearch
+
+20. fibonacciSearch
