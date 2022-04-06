@@ -39,3 +39,7 @@
 19. binarySearch
 
 20. fibonacciSearch
+
+21. interpolationSearch
+
+22. binarySearchTree
